@@ -1,0 +1,32 @@
+tasks completed
+
+
+1.completed spark java application CICD (got the code from scm packed it and sent the code to s3 then deployed ths s3 code) 
+developed a simple code in the local and pushed the code into the github then packed code there and sent the code into the s3 and deployed that code on the top of the apache
+2.run a static website by the s3
+3.creation of the k8s cluster
+4.created the load balancers  alb clb
+5.created own vpc
+worked on the autoscaling of ec2 machines created the auto scaling group
+6.created iam role and attached to the ec2 machine and increased the type of ec2 machine
+7.for ec2 machine attached the route53,target group and accessed  with the host based and path based applications 
+8.got sms if the cpu storage goes higher than the 50% usage
+9.worked on cloud front and cloud watch monitoring tools
+10.viewed the bill daily
+11.got the apache logs on grafana dash board installed the kibana and elastic search and installed the log stash on the top of the apache
+12.viewed the metrics of apache tomcat and jenkins machine on grafana ui viewed the metrics of apache tomcat and jenkins machine on grafana ui for this i have installed the prometheus and grafna on the top of the ecs2 and installed node exporter onthe targeted machines
+13.viewed the logs of apache tomcat jenkins on kibana dash board 
+14.created bastion and jumped from one server to another server
+15.worked with the plugins kobertura and jacoco 
+16.worked on  webhook pollscm
+17.worked with the ubuntu amazon linux machines os
+18.creeated the k8s cluster and worked on the pods network of cluster worked with the namespaces on k8s on 3 nodes
+19. worked on the docker files and wrote docker files to htttpd tomcat
+20 worked on the docker net woks and created the own network
+21.copied the apache logs to the s3 bucket
+22.ran an static website on the top of apache (html files)
+23 ran the dynamic website on top of the tomcat(war files)
+24.created the hosted record set ant updated the name servers on godaddy  account
+25.wrote a pipeline code with the ten stages
+26.ran the jenkins pipe line job with sample hello world code 
+27.
